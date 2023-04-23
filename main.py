@@ -35,36 +35,3 @@ elif user_choice =="scissor" and  computer_choice == "scissor":
   print("DRAW")
 else:
   print("Invalid case")
-
-
-
-
-
-
-
-
-
-
-
-'''
-number1 = 2
-number2 = 3
-
-# The working of "AND" operator 
-
-print(number1 == 2 and number2 == 3)
-print(number1 == 3 and number2 == 2)
-print(number1 == 2 and number2 == 2)
-print(number1 == 3 and number2 == 3)
-
-
-# The working of "OR" operator
-
-print(number1 == 2 or number2 == 3 )
-print(number1 == 2 or number2 == 2 )
-print(number1 == 3 or number2 == 3 )
-print(number1 == 3 or number2 == 2 )
-
-'''  
-
-
